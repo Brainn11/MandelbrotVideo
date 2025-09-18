@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+	  <meta charset="UTF-8">
+
+	  <!-- Open Graph basics -->
+	  <meta property="og:title" content="Mandelbrot Video">
+	  <meta property="og:description" content="A generated Mandelbrot set animation.">
+	  <meta property="og:url" content="https://brainn11.github.io/MandelbrotVideo/">
+	  <meta property="og:site_name" content="Brainn GitHub">
+	  <meta property="og:locale" content="en_US">
+	  <meta property="og:type" content="video.other">
+
+	  <!-- Thumbnail -->
+	  <meta property="og:image" content="https://raw.githubusercontent.com/Brainn11/MandelbrotVideo/main/Image.png">
+	  <meta property="og:image:width" content="120">
+	  <meta property="og:image:height" content="80">
+	  <meta property="og:image:alt" content="Mandelbrot preview thumbnail">
+
+	  <!-- Video -->
+	  <meta property="og:video:url" content="https://raw.githubusercontent.com/Brainn11/MandelbrotVideo/main/Video.mp4">
+	  <meta property="og:video:width" content="640">
+	  <meta property="og:video:height" content="360">
+	</head>
+</html>
